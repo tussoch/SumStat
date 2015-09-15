@@ -1,2 +1,2 @@
 # SumStat
-Generate summary statistics form a data frame
+Generate summary statistics from a data frame
